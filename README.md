@@ -32,7 +32,7 @@ Helping Storytel move the old Java monolith to micro services in GKE. When i fir
 Helped Telia Company with refining requirement specification and QA tester for their new surveillance system in regards to IT, Fiber, and mobile infrastructure. 
 <br><br>
 
-**Operations Engineer/SRE** @ [Telia Company](https://capgemini-engineering.com/us/en/) _(June 2015 - Aug 2018)_ <br>
+**Operations Engineer/SRE** @ [Telia Company](https://www.teliacompany.com/sv) _(June 2015 - Aug 2018)_ <br>
 Was part of the Telia Company Control Center for IT surveillance as a part time job during my degree.
 We had around 50K servers deployed across 20 different data centers spanning 5 countries that we managed 24/7/365.
 
