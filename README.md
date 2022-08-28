@@ -24,7 +24,7 @@ Helping Storytel move the old Java monolith to micro services in GKE. When i fir
 **_Tech Stack:_** GCP, Go, Java, Kotlin, F#, Kubernetes, Docker, Travis- and CircleCI, GCP/Apache dataflow
 
 - Develop and maintain 6 (3 Go, 2 Java/Kotlin, 1 F#) micro services in the Social domain.
-- Be one of two driving members in the GoLang team/crew, helping others with tools and keeping storytels GoLang github template up to date with best practices and patterns.
+- Be one of two driving members in the GoLang team/crew, helping others with tools and keeping Storytels GoLang github template up to date with best practices and patterns.
 - Be one of 3 developers designing and implementing how Storytel uses Feature flags in all side of the tach, backend/frontend and in our apps. We relied heavily on the ring design pattern so we could decide from JWT claims if a user is in a specific ring and thus will see new features in the app. Scopes used (QA, Storytel Internal, Storytel Employee, BETA and ALL)
 <br><br>
 
